@@ -16,3 +16,7 @@
 ## Author
 
 **Deethya Reddy Yelamkonda**
+
+## Contributor
+
+**Daniel Balouek**
