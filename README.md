@@ -1,7 +1,7 @@
 <h1 align="center">Earthquake Dataset Analysis</h1>
 
 <p>Picked one GPS station (POMM) and one seismometer station (BK.BRIB) from complete dataset and made a plot of all earthquakes recorded</p>
-<p>Goal: Parse through complete dataset, compile data on all large earthquakes recorded, create plots, and find patterns.</p>
+<p>**Goal (In progress):** Parse through complete dataset, compile data on all large earthquakes recorded, create plots, and find patterns.</p>
 
 ## Links
 
