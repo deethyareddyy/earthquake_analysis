@@ -9,8 +9,6 @@
 
 ## Built With
 
-- JavaScript
-- Node.js
 - Python
 
 ## Author
